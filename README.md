@@ -18,3 +18,10 @@ https://tk-whatsapp.herokuapp.com/
 
 ### Data Response
 - https://tk-whatsapp.herokuapp.com/messages
+
+##### Query Parameters:
+
+|name|value|
+|----|--------|
+|type| "read" or "unread" |
+|gender| "male" or "female" |
